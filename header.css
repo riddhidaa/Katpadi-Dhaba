@@ -1,0 +1,124 @@
+.japanese-food-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 56px;
+  height: 55px;
+  overflow: hidden;
+}
+.cuisine1 {
+  position: absolute;
+  top: 10.34%;
+  left: 22.61%;
+  letter-spacing: -0.4px;
+  line-height: 29.33px;
+  font-weight: 600;
+}
+.hot-food-1-icon1 {
+  position: absolute;
+  height: 97.67%;
+  width: 20.69%;
+  top: 0;
+  right: 79.31%;
+  bottom: 2.33%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.logo,
+.original-logo1 {
+  position: absolute;
+  top: 8px;
+  left: 28.5px;
+  width: 182.7px;
+  height: 38.7px;
+}
+.logo {
+  top: 0;
+  left: 0;
+  width: 211.2px;
+  height: 55px;
+}
+.about {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.menu1 {
+  top: 0.5px;
+  left: 0;
+  border-radius: var(--br-15xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-base);
+}
+.menu,
+.menu1,
+.menu2 {
+  position: absolute;
+}
+.menu2 {
+  top: 0;
+  left: 190.6px;
+  border-radius: var(--br-15xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-base);
+  cursor: pointer;
+}
+.menu {
+  top: 11px;
+  left: 639.9px;
+  width: 284.6px;
+  height: 32.5px;
+  font-size: var(--body-16px-medium-size);
+  color: var(--neutral-07);
+  font-family: var(--body-16px-medium);
+}
+.iconoutlinecheck-circle1 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.get-started-now1 {
+  position: relative;
+  font-size: var(--body-16px-medium-size);
+  text-decoration: underline;
+  line-height: 24px;
+  font-family: var(--body-16px-medium);
+  color: var(--neutral-071);
+  text-align: right;
+}
+.button1 {
+  cursor: pointer;
+  border: 1.5px solid var(--neutral-07);
+  padding: 12px 24px;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 24px);
+  left: calc(50% + 499.5px);
+  border-radius: var(--br-99xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.header1 {
+  position: relative;
+  width: 100%;
+  height: 55px;
+  text-align: left;
+  font-size: 42.67px;
+  color: var(--color-darkslategray-100);
+  font-family: var(--headline-h1);
+}

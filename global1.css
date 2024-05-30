@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-dm-sans: "DM Sans";
+  --font-playfair-display: "Playfair Display";
+
+  /* Colors */
+  --neutral-01: #fff;
+}

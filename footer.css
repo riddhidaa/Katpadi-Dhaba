@@ -1,0 +1,157 @@
+.bg7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+}
+.copyright-2023 {
+  position: absolute;
+  top: 55.56%;
+  left: calc(50% - 212px);
+  line-height: 24px;
+}
+.bottom-child {
+  position: absolute;
+  height: 1.85%;
+  width: 100.08%;
+  top: -0.93%;
+  right: -0.04%;
+  bottom: 99.07%;
+  left: -0.04%;
+  border-top: 1px solid var(--neutral-061);
+  box-sizing: border-box;
+}
+.bottom {
+  position: absolute;
+  height: 9.42%;
+  top: 90.58%;
+  bottom: 0;
+  left: calc(50% - 648px);
+  width: 1296px;
+}
+.japanese-food-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 56px;
+  height: 55px;
+  overflow: hidden;
+}
+.cuisine2 {
+  position: absolute;
+  top: 10.34%;
+  left: 22.61%;
+  letter-spacing: -0.4px;
+  line-height: 29.33px;
+  font-weight: 600;
+}
+.hot-food-1-icon2 {
+  position: absolute;
+  height: 97.67%;
+  width: 20.69%;
+  top: 0;
+  right: 79.31%;
+  bottom: 2.33%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.original-logo2 {
+  position: absolute;
+  top: 8px;
+  left: 28.5px;
+  width: 182.7px;
+  height: 38.7px;
+}
+.logo1 {
+  position: relative;
+  width: 211.2px;
+  height: 55px;
+  font-size: 32.67px;
+  font-family: var(--headline-h1);
+}
+.mail-aradhydixitgmailcom {
+  margin: 0;
+}
+.contact-8957418553-mail-container,
+.i {
+  position: relative;
+  line-height: 24px;
+}
+.i {
+  color: var(--neutral-04);
+  display: inline-block;
+  width: 293px;
+}
+.col-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.katpadidhaba {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  width: 179px;
+  height: 34px;
+  flex-shrink: 0;
+}
+.image-112,
+.img-icon {
+  position: relative;
+  width: 26px;
+  height: 25px;
+}
+.img-icon {
+  width: 403px;
+  height: 170px;
+  object-fit: cover;
+}
+.col-3 {
+  height: 196px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.content2,
+.top {
+  position: absolute;
+}
+.top {
+  height: 55.5%;
+  top: 0;
+  bottom: 44.5%;
+  left: calc(50% - 558px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-116xl);
+  color: var(--neutral-01);
+}
+.content2 {
+  height: 73.65%;
+  top: 15.42%;
+  bottom: 10.93%;
+  left: calc(50% - 648px);
+  width: 1296px;
+}
+.footer {
+  position: relative;
+  width: 100%;
+  height: 778px;
+  text-align: left;
+  font-size: var(--body-16px-medium-size);
+  color: var(--neutral-04);
+  font-family: var(--body-16px-medium);
+}

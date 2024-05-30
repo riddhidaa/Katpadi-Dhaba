@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+a{
+  color:#000;
+}
+
+:root {
+  /* fonts */
+  --body-16px-medium: "DM Sans";
+  --headline-h1: "Playfair Display";
+
+  /* font sizes */
+  --body-16px-medium-size: 16px;
+  --font-size-23xl-7: 42.7px;
+  --headline-h1-size: 100px;
+  --headline-h2-size: 55px;
+  --headline-h3-size: 24px;
+  --body-18px-medium-size: 18px;
+  --font-size-13xl-7: 32.7px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --neutral-02: #f9f9f7;
+  --color-brown: #ad343e;
+  --neutral-01: #fff;
+  --color-black: #000;
+  --neutral-06: #485460;
+  --color-darkslategray-100: #474747;
+  --neutral-061: #414536;
+  --neutral-07: #2c2f24;
+  --neutral-071: #182226;
+  --neutral-03: #dbdfd0;
+  --blue-100: #dbeafe;
+  --neutral-04: #adb39e;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-5xl: 24px;
+  --gap-11xl: 30px;
+  --gap-116xl: 135px;
+  --gap-8xs: 5px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-13xl: 32px;
+  --padding-9xs: 4px;
+  --padding-base: 16px;
+
+  /* Border radiuses */
+  --br-99xl: 118px;
+  --br-15xl: 34px;
+  --br-xs: 12px;
+
+  /* Effects */
+  --effect: 0px 3px 59.57px rgba(0, 0, 0, 0.08);
+}

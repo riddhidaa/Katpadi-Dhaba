@@ -1,0 +1,136 @@
+.header {
+  position: absolute;
+  top: 0;
+  left: 82px;
+  width: 1293px;
+  height: 60px;
+}
+.cuisine {
+  margin: 0;
+  position: absolute;
+  top: 10.34%;
+  left: 22.61%;
+  font-size: inherit;
+  letter-spacing: -0.4px;
+  line-height: 29.33px;
+  font-style: italic;
+  font-weight: 600;
+  font-family: inherit;
+}
+.hot-food-1-icon {
+  position: absolute;
+  height: 97.67%;
+  width: 20.69%;
+  top: 0;
+  right: 79.31%;
+  bottom: 2.33%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.original-logo {
+  position: absolute;
+  top: 45px;
+  left: 141px;
+  width: 182.7px;
+  height: 38.7px;
+}
+.frame,
+.vector-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 100%;
+  width: 12.8%;
+  top: 0;
+  right: 87.2%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame {
+  top: 75px;
+  left: 65px;
+  width: 1375px;
+  height: 128px;
+  text-align: left;
+  font-size: 64px;
+  color: var(--color-darkslategray-100);
+  font-family: var(--headline-h1);
+}
+.your-booking-has {
+  margin: 0;
+}
+.your-booking-has-container {
+  margin: 0;
+  position: absolute;
+  top: 18px;
+  left: 0;
+  font-size: inherit;
+  letter-spacing: -0.4px;
+  line-height: 29.33px;
+  display: inline-block;
+  font-style: italic;
+  font-weight: 600;
+  font-family: inherit;
+  width: 1296px;
+  height: 346px;
+}
+.iconoutlinecheck-circle {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.get-started-now {
+  position: relative;
+  text-decoration: underline;
+  line-height: 24px;
+}
+.button,
+.frame1 {
+  position: absolute;
+}
+.button {
+  top: 337px;
+  left: 176px;
+  border-radius: var(--br-99xl);
+  background-color: var(--color-brown);
+  width: 944px;
+  height: 101px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-13xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  text-align: right;
+  font-size: 32px;
+  color: var(--neutral-01);
+  font-family: var(--body-16px-medium);
+}
+.frame1 {
+  top: 364px;
+  left: 50px;
+  width: 1296px;
+  height: 590px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 80px;
+  color: var(--color-black);
+  font-family: var(--headline-h1);
+}
+.confirmation {
+  position: relative;
+  background-color: var(--neutral-02);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+}

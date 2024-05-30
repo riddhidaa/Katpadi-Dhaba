@@ -1,0 +1,15 @@
+.bg,
+.hero1 {
+  height: 951px;
+}
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--neutral-02);
+  width: 1600px;
+}
+.hero1 {
+  position: relative;
+  width: 100%;
+}
